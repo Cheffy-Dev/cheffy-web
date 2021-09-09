@@ -1,0 +1,20 @@
+# Node Modules
+node_modules/
+
+# Prettier files - config, ignore, etc.
+*prettier*
+
+# VS Code workspace configuration files.
+.vscode/
+
+# Next.js files.
+build/
+/.next/
+/out/
+
+# Misc
+*.log*
+*.env*
+
+# Ignore package lock file because we are using yarn on the server.
+package-lock.json

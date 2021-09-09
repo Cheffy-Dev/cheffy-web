@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+.about-page {
+  font-family: "Poppins" !important;
+}
+
+.banner-about {
+  margin-top: 50px;
+  width: 100%;
+  background-image: url("https://res.cloudinary.com/dlugsslrk/image/upload/v1627763906/elle-morre-k6VCwawxgMg-unsplash_yv6dqv.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.about-head {
+  color: #222;
+  font-size: 32px;
+  font-weight: 900;
+  font-family: "Poppins";
+  margin-bottom: 30px;
+}
+
+.about-para {
+  font-size: 15px;
+  line-height: 1.4rem;
+  letter-spacing: 0.3px;
+  font-family: "Poppins";
+}
+.promo-about {
+  background-image: url("https://res.cloudinary.com/dzqjbkm5q/image/upload/v1618938145/anatomy_guru/app-promo-min_ficchd.png");
+  margin-top: 50px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.promo-about .chef-l {
+  border-radius: 20px;
+  /* height: 75px; */
+  /* width: 75px; */
+  margin: 20px;
+}
+
+.promo-about a img {
+  /* height: 50px; */
+  margin-left: 10px;
+}
+.ant-card-head-title {
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Poppins";
+}
+.ab-wrapper {
+  margin-top: 75px;
+}
+.ab-wrapper img {
+  height: 40px;
+  margin-left: 20px;
+}
+.ab-img img {
+  border-radius: 15px;
+}
+.contact-top-para {
+  font-size: 15px;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+  opacity: 0.9;
+}
+.form-input-contact {
+  width: 100%;
+  padding: 10px 20px;
+  border-radius: 4px;
+  background: #f8f8ff;
+  font-size: 16px;
+  font-weight: 500;
+  /* color: #fff; */
+}
+.form-input-contact.ant-select {
+  width: 100%;
+  padding: 4px 20px;
+  border-radius: 4px;
+  background: #f8f8ff;
+  font-size: 16px;
+  font-weight: 500;
+  /* color: #fff; */
+}
+
+.form-input-contact .ant-input {
+  background: #f8f8ff;
+  margin-left: 8px;
+}
+.form-select-contact {
+  background: #f8f8ff !important;
+  width: 100%;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.ant-select-selector {
+  background: #f8f8ff !important;
+  border: none !important;
+}
+.about-page .ant-input-affix-wrapper {
+  border-radius: 4px;
+  background: #f8f8ff !important;
+}

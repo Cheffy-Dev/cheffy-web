@@ -1,0 +1,8 @@
+.chef-banner {
+	background-image: url(/images/chef/chef-banner.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	backdrop-filter: brightness(0.1);
+	height: 25vh;
+	margin-top: 4.4rem;
+}

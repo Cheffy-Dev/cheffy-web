@@ -1,0 +1,10 @@
+.ant-tabs-tab > div {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+@media screen and (min-width: 768px) {
+	#related-tabs > * > div {
+		justify-content: end;
+	}
+}

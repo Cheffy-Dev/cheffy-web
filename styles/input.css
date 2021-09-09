@@ -1,0 +1,33 @@
+input.signup-input {
+	border-bottom: 1px solid #adb1b3;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	padding: 1rem 1.5rem;
+	background-color: #edf2f7;
+}
+
+input:hover.signup-input {
+	border-bottom: 1px solid #adb1b3;
+}
+
+input.signup-input::-moz-placeholder {
+	color: #263238;
+}
+
+input.signup-input:-ms-input-placeholder {
+	color: #263238;
+}
+
+input.signup-input::-webkit-input-placeholder {
+	color: #263238;
+}
+.signup-input,
+.signup-input input {
+	border-bottom: 1px solid #adb1b3;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	padding: 1rem 1.5rem;
+	background-color: #edf2f7;
+}

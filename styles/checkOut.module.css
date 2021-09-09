@@ -1,0 +1,93 @@
+.label-checkout {
+	font-size: 36px;
+	font-weight: 600;
+}
+
+.title-label {
+	font-size: 18px;
+	font-weight: 700;
+	color: #bbbdc0;
+}
+
+.input-label {
+	font-size: 16px;
+	font-weight: 700;
+	color: #bbbdc0;
+}
+
+.email-label {
+	color: hsl(0deg 0% 44%);
+	font-size: 18px;
+	font-weight: 800;
+}
+
+.address-label {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.ant-input:hover {
+	border-color: #6dc8d8;
+	border-right-width: 1px !important;
+}
+
+.ant-input:focus,
+.ant-input-focused {
+	border-color: #6dc8d8;
+	border-right-width: 1px !important;
+	outline: 0;
+	box-shadow: none;
+}
+
+.checkOut-button {
+	height: 50px;
+	background: hsl(171deg 43% 51%);
+	border: 1px solid hsl(171deg 43% 51%);
+}
+
+.amount-label {
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.order-label {
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.item-label {
+	text-align: center;
+	height: 25px;
+	width: 25px;
+	border: 2px solid #bbbdc0;
+}
+
+.order-sub-label {
+	font-size: 18px;
+	font-weight: 700;
+	color: #bbbdc0;
+}
+
+.active-item-label {
+	text-align: center;
+	height: 25px;
+	width: 25px;
+	color: white;
+	border: 2px solid hsl(171deg 43% 51%);
+	background: hsl(171deg 43% 51%);
+}
+
+.coupon-button {
+	height: 60px;
+	width: 50%;
+	background: hsl(171deg 43% 51%);
+	border: 1px solid hsl(171deg 43% 51%);
+	font-weight: 700;
+}
+
+.ant-btn-background-ghost.ant-btn-primary {
+	color: hsl(171deg 43% 51%);
+	background: transparent;
+	border-color: hsl(171deg 43% 51%);
+	text-shadow: none;
+}

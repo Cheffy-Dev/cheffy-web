@@ -1,0 +1,88 @@
+.category-icon {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	border: 2px solid whitesmoke;
+}
+
+.chef-icon {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	border: 2px solid whitesmoke;
+}
+
+.custom-container {
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.d-flex {
+	display: flex;
+}
+
+.justify-space-between {
+	justify-content: space-between;
+}
+
+.justify-content-center {
+	justify-content: center;
+}
+
+.d-grid {
+	display: grid;
+}
+
+.category-label {
+	text-align: center;
+	padding-top: 10px;
+	font-size: 16px;
+	font-weight: 700;
+}
+.cheffy-label {
+	font-size: 34px;
+	font-weight: bold;
+}
+.margin-40 {
+	margin-left: -40px;
+}
+.category-icon-card {
+	width: 300px;
+	height: 200px;
+}
+.category-border {
+	border: 2px solid #dad7d782;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 90%;
+	height: 300px;
+	border-radius: 20px;
+}
+.label {
+	font-size: 20px;
+	font-weight: 750;
+}
+.div-width {
+	width: 90%;
+}
+.cheffy-description {
+	display: flex;
+	justify-content: space-between;
+	font-size: 16px;
+	font-weight: 700;
+	color: #00000080;
+}
+
+.padding-bottom-50 {
+	padding-bottom: 50px;
+}
+.card {
+	padding: 30px;
+	background: rgb(234 234 234 / 79%);
+	border-radius: 5px;
+}
+.ml-50 {
+	margin-left: 50px;
+}

@@ -1,0 +1,24 @@
+.sort-button {
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: rgb(241 241 241);
+	font-size: 18px;
+	font-weight: 500;
+	border-radius: 5px;
+}
+
+.cheffy-label {
+	display: flex;
+	justify-content: space-between;
+}
+
+.mr-19 {
+	margin-right: 30px;
+}
+
+.category-item-label {
+	font-size: 24px;
+	font-weight: 700;
+}

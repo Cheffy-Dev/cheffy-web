@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.about-page {
+	font-family: 'Poppins' !important;
+}
+
+.banner-about {
+	margin-top: 50px;
+	width: 100%;
+	background-image: url('https://res.cloudinary.com/dzqjbkm5q/image/upload/v1618935832/anatomy_guru/about-bg_hii6xx.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-weight: 700;
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+
+.about-head {
+	color: #222;
+	font-size: 32px;
+	font-weight: 900;
+	font-family: 'Poppins';
+	margin-bottom: 30px;
+}
+
+.about-para {
+	font-size: 15px;
+	line-height: 1.4rem;
+	letter-spacing: 0.3px;
+	font-family: 'Poppins';
+}
+.promo-about {
+	background-image: url('https://res.cloudinary.com/dzqjbkm5q/image/upload/v1618938145/anatomy_guru/app-promo-min_ficchd.png');
+	margin-top: 50px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-size: 30px;
+	font-weight: 700;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.promo-about .chef-l {
+	border-radius: 20px;
+}
+.ant-card-head-title {
+	font-weight: 800;
+	font-size: 20px;
+	font-family: 'Poppins';
+}
+.ab-wrapper {
+	margin-top: 75px;
+}
+.ab-wrapper img {
+	height: 40px;
+	margin-left: 20px;
+}
+.ab-img img {
+	border-radius: 15px;
+}
+.ab-img {
+	flex: 0.6;
+}
+.ab-text {
+	flex: 1;
+}
+.filter-invert {
+	filter: invert(1);
+}

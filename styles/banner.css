@@ -1,0 +1,21 @@
+#app-banner {
+	height: 50vh;
+}
+#app-banner + *:not(#app-banner):not(#about-page) {
+	margin-top: -50vh;
+}
+#app-banner + #about-page {
+	margin-top: -45vh;
+}
+
+@media screen and (min-width: 992px) {
+	#app-banner {
+		height: 30vh;
+	}
+	#app-banner + *:not(#app-banner):not(#about-page) {
+		margin-top: -30vh;
+	}
+	#app-banner + #about-page {
+		margin-top: -25vh;
+	}
+}

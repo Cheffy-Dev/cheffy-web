@@ -1,0 +1,6 @@
+export const USER_INFO_REQUEST = 'USER_INFO_REQUEST';
+export const USER_INFO_SUCCESS = 'USER_INFO_SUCCESS';
+export const USER_INFO_FAILURE = 'USER_INFO_FAILURE';
+
+export const SET_CITY = "SET_CITY";
+export const GET_CITY = "GET_CITY";

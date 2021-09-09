@@ -1,0 +1,1 @@
+export { getKitchenByName } from './kitchenAction';
